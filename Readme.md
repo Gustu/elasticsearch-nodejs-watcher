@@ -1,6 +1,6 @@
 # Elasticsearch NodeJS Watcher
 
-This is alternative to [Elasticsearch X-Pack Watcher****](https://www.elastic.co/guide/en/x-pack/current/watcher-getting-started.html).
+This is alternative to [Elasticsearch X-Pack Watcher](https://www.elastic.co/guide/en/x-pack/current/watcher-getting-started.html).
 
 Example usage - asking Elasticsearch each 30s if any new document that matches query appeared. 
 

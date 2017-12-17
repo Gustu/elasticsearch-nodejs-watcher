@@ -1,7 +1,7 @@
 {
   "name": "elasticsearch-nodejs-watcher",
-  "version": "1.0.2",
-  "description": "Elasticsearch Watcher runned with Node. Alternative for X-Pack.",
+  "version": "1.0.3",
+  "description": "Elasticsearch Watcher runned with NodeJS. Alternative to X-Pack.",
   "main": "dist/index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha",
