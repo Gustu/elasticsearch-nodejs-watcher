@@ -1,6 +1,14 @@
 # Elasticsearch NodeJS Watcher
 
+[![npm version](https://badge.fury.io/js/elasticsearch-nodejs-watcher.svg)](https://badge.fury.io/js/elasticsearch-nodejs-watcher)
+
 This is alternative to [Elasticsearch X-Pack Watcher](https://www.elastic.co/guide/en/x-pack/current/watcher-getting-started.html).
+
+### Install
+
+`npm install --save elasticsearch-nodejs-watcher`
+
+### Usage
 
 Example usage - asking Elasticsearch each 30s if any new document that matches query appeared. 
 
