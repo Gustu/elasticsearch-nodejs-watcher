@@ -57,6 +57,10 @@ elasticWatcher.schedule(connection, watcher);
 
 Check out [Elasticsearch.js](https://github.com/elastic/elasticsearch-js) documentation
 
+### Example
+
+[Example project using Watcher](https://github.com/Gustu/error-watcher)
+
 ## License
 
 MIT.
