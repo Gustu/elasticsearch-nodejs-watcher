@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/elasticsearch-nodejs-watcher.svg)](https://badge.fury.io/js/elasticsearch-nodejs-watcher)
 
-This is alternative to [Elasticsearch X-Pack Watcher](https://www.elastic.co/guide/en/x-pack/current/watcher-getting-started.html).
+Alternative to [Elasticsearch X-Pack Watcher](https://www.elastic.co/guide/en/x-pack/current/watcher-getting-started.html).
 
 ### Install
 
