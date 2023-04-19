@@ -14,7 +14,7 @@
     "url": "https://github.com/Gustu/elasticsearch-nodejs-watcher.git"
   },
   "dependencies": {
-    "elasticsearch": "^14.0.0",
+    "elasticsearch": "^16.7.3",
     "node-cron": "^1.2.1"
   },
   "devDependencies": {
